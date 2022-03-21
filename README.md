@@ -3,7 +3,7 @@
 ###. Usage :
 ```
 module "vpc" {
-    source = ""
+    source = "mergen93/vpc/aws"
 }
 
 ```
